@@ -1,5 +1,6 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Open World Game 3D
+
+A game maked wif Wawa Sensei Tutorial for react tree
 
 ```
 yarn
