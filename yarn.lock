@@ -603,6 +603,14 @@
     use-sync-external-store "^1.4.0"
     zustand "^5.0.3"
 
+"@react-three/postprocessing@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@react-three/postprocessing/-/postprocessing-3.0.4.tgz#e2379eb0b953d1cc0c4b8ac94dc76256f4c07062"
+  dependencies:
+    maath "^0.6.0"
+    n8ao "^1.9.4"
+    postprocessing "^6.36.6"
+
 "@react-three/rapier@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@react-three/rapier/-/rapier-2.0.0.tgz#1c98f2e0d7e1e35c1a56f6ddb7ce58383307d8f0"
@@ -1106,6 +1114,10 @@ maath@^0.10.8:
   version "0.10.8"
   resolved "https://registry.yarnpkg.com/maath/-/maath-0.10.8.tgz#cf647544430141bf6982da6e878abb6c4b804e24"
 
+maath@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/maath/-/maath-0.6.0.tgz#7841d0fb95bbb37d19b08b7c5458ef70190950d2"
+
 merge-value@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/merge-value/-/merge-value-1.0.0.tgz#d28f8d41c0b37426e032d1059a0d0343302de502"
@@ -1133,6 +1145,10 @@ mixin-deep@^1.2.0:
 ms@2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
+
+n8ao@^1.9.4:
+  version "1.9.4"
+  resolved "https://registry.yarnpkg.com/n8ao/-/n8ao-1.9.4.tgz#be222531fddcb5099614be452fc492db98a2947d"
 
 nanoid@^3.3.8:
   version "3.3.8"
@@ -1171,6 +1187,10 @@ postcss@^8.5.3:
     nanoid "^3.3.8"
     picocolors "^1.1.1"
     source-map-js "^1.2.1"
+
+postprocessing@^6.36.6:
+  version "6.37.1"
+  resolved "https://registry.yarnpkg.com/postprocessing/-/postprocessing-6.37.1.tgz#643c9acf1d4addc4f98f91dc1ee578a258b462f3"
 
 potpack@^1.0.1:
   version "1.0.2"
