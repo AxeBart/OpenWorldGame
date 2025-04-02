@@ -27,7 +27,7 @@ export function Human(props) {
     <group ref={group} {...props} dispose={null}>
       <group name="Root_Scene">
         <group name="RootNode">
-          <group name="Human_Armature" scale={69.183}>
+          <group name="Human_Armature" scale={69.183 + props.scale}>
             <primitive object={nodes.Hips} />
           </group>
           <skinnedMesh castShadow receiveShadow name="Human_Mesh" geometry={nodes.Human_Mesh.geometry} material={materials.Texture} skeleton={nodes.Human_Mesh.skeleton} scale={69.183} />

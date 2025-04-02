@@ -5,4 +5,9 @@
 
 body {
   margin: 0;
+  cursor : none;
+}
+
+a{
+  color: #000000;
 }
